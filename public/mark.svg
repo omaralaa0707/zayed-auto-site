@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- A body in plan, with one panel lifted clear and flagged. -->
+  <rect x="14" y="6" width="20" height="36" rx="4" stroke="#eef0f2" stroke-width="2" />
+  <line x1="14" y1="19" x2="34" y2="19" stroke="#eef0f2" stroke-width="1.6" opacity="0.6" />
+  <line x1="14" y1="30" x2="34" y2="30" stroke="#eef0f2" stroke-width="1.6" opacity="0.6" />
+  <rect x="4" y="9" width="7" height="10" rx="2" fill="#e0b64a" />
+  <rect x="37" y="9" width="7" height="10" rx="2" fill="#e0b64a" />
+</svg>
