@@ -119,9 +119,7 @@ export const en: ZayedContent = {
   },
 
   footer: {
-    disclaimer:
-      "A concept design, built as a demonstration. Not an official Zayed Auto site, and not affiliated with them. All photography, marks and quoted copy belong to Zayed Auto.",
-    rights: "Concept by Claude",
+    rights: "© Zayed Auto. All rights reserved.",
   },
 
   a11y: {
